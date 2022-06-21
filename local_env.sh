@@ -1,0 +1,1 @@
+export FAKTORY_URL="tcp://faktory:andita2faktory@localhost:7419"
